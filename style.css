@@ -1,0 +1,136 @@
+ 
+ @import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+body {
+    font-family: 'DM Sans', sans-serif;
+    background-color: #FFEFA6;
+}
+img {
+    max-width: 100%;
+}
+.titulo {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.informacion {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.titulo {
+    background-image: url(images/pastel.jfif);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+}
+
+.titulo h1 {
+    font-size: 60px;
+    border-color: black;
+    border-radius: 5px;
+    color: #02000e;
+    background-image: url(images/Baner.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+
+    }
+.informacion h2 {
+    font-size: 60px;
+    color: #1c4e35;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+}
+.informacion h3 {
+    font-size: 60px;
+    color: #1c4e35;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+}
+.informacion h4 {
+    font-size: 60px;
+    color: #1c4e35;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+}
+.informacion h5 {
+    font-size: 60px;
+    color: #1c4e35;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+}
+.informacion h6 {
+    font-size: 60px;
+    color: #1c4e35;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+}
+.titulo p{
+    font-size: 20px;
+    color: peru;
+
+}
+.informacion p{
+    font-size: 20px;
+    color: rgb(114, 68, 22);
+}
+img{
+    background-color: crimson;
+}
+
+.bienvenido h1 {
+    color: color(srgb red green rgb(0, 0, 0));
+    background-image: url(images/gente.avif);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    font-size: 80px;
+
+}
+.despedida h6 {
+    color: white;
+    background-image: url(images/urbano.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    font-size: 150px;
+
+    }
+
+
+    .informacion {
+        background-image: url(images/imagina.png);
+       
+        background-repeat: repeat;
+
+       
+    }
